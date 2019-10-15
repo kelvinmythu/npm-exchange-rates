@@ -30,8 +30,8 @@
 	// API base URL:
 	oxr.api_url = 'http://openexchangerates.org/api/'
 
-	// The default base currency ('USD'):
-	oxr.base = 'USD';
+	// The default base currency ('MMK'):
+	oxr.base = 'MMK';
 
 	// The rates object:
 	oxr.rates = {};
